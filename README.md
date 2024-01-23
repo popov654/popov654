@@ -5,11 +5,10 @@
 <h3>Recent releases</h3>
 <!-- recent_releases starts -->
 
-* [tinybrowser: Improved error handling in JS parser
-Implemented parser errors output in Inspector console](https://github.com/popov654/tinybrowser/commit/ce13c73d278725f59879e0d24734e6aa70e6be99) - 2023-08-27
-* [jsfilewriter: Added default filename for text files](https://github.com/popov654/jsfilewriter/commit/63725c9817f129a2f257d5c740f0219f984c3231) - 2023-06-11
-* [xscroll: Added support for contenteditable blocks](https://github.com/popov654/xscroll/commit/d30217dc9b9b3b12532cb62bea958862a1c23579) - 2022-12-27
-* [xspinner: Initial commit](https://github.com/popov654/xspinner/commit/0549be0cbc5aea4c286c81c92d54fb825c28733f) - 2022-11-15
-* [jsobjectdraw: Refactoring bad code](https://github.com/popov654/jsobjectdraw/commit/c5e4deed2678f50d6359bb32bce4c490b6df4bb1) - 2022-09-19
+* [alphacrypt2: Memory and speed optimizations](https://github.com/popov654/alphacrypt2/commit/59f934e78779efd76ba4f6711e88e13de64b6818) - 2024-01-23
+* [cloudfave: Fixed bugs](https://github.com/popov654/cloudfave/commit/42ac3965f0237c7474adbd9e2db3137bb739d83e) - 2024-01-13
+* [xscroll: Handling some edge cases](https://github.com/popov654/xscroll/commit/acbf9c5d3d0067d94db6dee2a7ebf74852131a4e) - 2024-01-09
+* [tinybrowser: Implemented template strings](https://github.com/popov654/tinybrowser/commit/8f52caf2ccbff3c64484c81613e7681530ec5835) - 2024-01-03
+* [markdown-editor: Changed directory](https://github.com/popov654/markdown-editor/commit/4f3e8d8565687f5678acb3bf99bbe13eb6e7a048) - 2023-12-15
 
 <!-- recent_releases ends -->
