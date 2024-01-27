@@ -5,7 +5,7 @@
 <h3>Last updates</h3>
 <!-- last_updates starts -->
 
-* [alphacrypt2: Memory and speed optimizations](https://github.com/popov654/alphacrypt2/commit/59f934e78779efd76ba4f6711e88e13de64b6818) - 2024-01-23
+* [alphacrypt2: Added file overwrite protection check](https://github.com/popov654/alphacrypt2/commit/204de4ff3aceb7c3ac68f3a5ad1b1a532f353836) - 2024-01-27
 * [cloudfave: Fixed bugs](https://github.com/popov654/cloudfave/commit/42ac3965f0237c7474adbd9e2db3137bb739d83e) - 2024-01-13
 * [xscroll: Handling some edge cases](https://github.com/popov654/xscroll/commit/acbf9c5d3d0067d94db6dee2a7ebf74852131a4e) - 2024-01-09
 * [tinybrowser: Implemented template strings](https://github.com/popov654/tinybrowser/commit/8f52caf2ccbff3c64484c81613e7681530ec5835) - 2024-01-03
