@@ -5,10 +5,10 @@
 <h3>Last updates</h3>
 <!-- last_updates starts -->
 
-* [alphacrypt2: Added file overwrite protection check](https://github.com/popov654/alphacrypt2/commit/204de4ff3aceb7c3ac68f3a5ad1b1a532f353836) - 2024-01-27
-* [cloudfave: Fixed bugs](https://github.com/popov654/cloudfave/commit/42ac3965f0237c7474adbd9e2db3137bb739d83e) - 2024-01-13
-* [xscroll: Handling some edge cases](https://github.com/popov654/xscroll/commit/acbf9c5d3d0067d94db6dee2a7ebf74852131a4e) - 2024-01-09
-* [tinybrowser: Implemented template strings](https://github.com/popov654/tinybrowser/commit/8f52caf2ccbff3c64484c81613e7681530ec5835) - 2024-01-03
-* [markdown-editor: Changed directory](https://github.com/popov654/markdown-editor/commit/4f3e8d8565687f5678acb3bf99bbe13eb6e7a048) - 2023-12-15
+* [tpf_framework: Added profile image minimum size check](https://github.com/popov654/tpf_framework/commit/a61f7f29638105c21e77aea1bb8caac617030d1d) - 2025-02-19
+* [xscroll: Added support for percentage `thumb-length` attribute values](https://github.com/popov654/xscroll/commit/2249b29cc14ed821642a689cd70c3e48c8115cc2) - 2025-02-04
+* [php-html-parser: Updated composer.json](https://github.com/popov654/php-html-parser/commit/8e055d2275823b88a16bc4efe8f1c32bb2d0f582) - 2024-07-26
+* [string-encoder-legacy: Version 1.0.2](https://github.com/popov654/string-encoder-legacy/commit/52f389df9a675d93725278ffd6df09d827663402) - 2024-07-22
+* [ticketservice: Added exception handling](https://github.com/popov654/ticketservice/commit/1e653ba2b319350e4b6db15aa08d6872b4c038ad) - 2024-06-06
 
 <!-- last_updates ends -->
